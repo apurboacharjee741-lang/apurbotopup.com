@@ -19,7 +19,7 @@ var telegram_group_link = "telegram group link";
 var youtube_channel_link = "YouTube channel link";
 
 // =======================================================
-// NOTIFICATION TEXT
+// NOTIFICATION TEXT যেকোনো সমস্যায় পরলে দ্রুত সমাধান পেতে হেল্প লাইন এ যোগাযোগ করুন 
 // =======================================================
 var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
 ১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
