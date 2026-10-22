@@ -1,12 +1,12 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (Apurbo Top Up )
 // =======================================================
-var website_name = "YASIN";
+var website_name = Apurbo Top Up 
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = https://t.meapurbohelpline123
 
 // =======================================================
 // TELEGRAM GROUP LINK
