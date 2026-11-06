@@ -7,5 +7,18 @@
     "default:Banner 3.jpg",
     "banner-1793890115856-8598.jpg"
   ],
-  "quick": null
+  "quick": [
+    {
+      "label": "Telegram",
+      "url": "https://t.me/apurbohelpline123"
+    },
+    {
+      "label": "Join Group",
+      "url": ""
+    },
+    {
+      "label": "YouTube",
+      "url": ""
+    }
+  ]
 }
