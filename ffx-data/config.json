@@ -1,7 +1,6 @@
 {
   "logo": null,
   "ffBanner": null,
-  "ffPackages": null,
   "banners": [
     "banner-1793890115856-8598.jpg",
     "banner-1793961427038-1250.jpg"
@@ -19,5 +18,10 @@
       "label": "YouTube",
       "url": "https://youtube.com/@apurboontop2026?si=E8Bjhn5YYwWWfxNh"
     }
-  ]
+  ],
+  "images": {
+    "pop": "img-pop-1794231161369.png"
+  },
+  "prod": null,
+  "texts": null
 }
